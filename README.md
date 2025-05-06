@@ -10,9 +10,6 @@
 
 Handsign is a simple AI-based hand gesture recognition that translates a hand pose into the American Sign Language (ASL) alphabet. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
 
-`#dohackathon` `#madewithTFJS`
-
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
 
 ## [See Demo](https://handsign-tensorflow.vercel.app)
 
@@ -82,7 +79,6 @@ the `estimatedGestures` data will render on your screen.
 
 - Sign language illustration is created by [Pelin Kahraman](https://thenounproject.com/pelodrome/)
 
-If you want to learn more about Tensorflow JS and custom gesture handpose, please kindly check these amazing videos
 
 - [Machine Learning with TensorFlow in JavaScript](https://www.youtube.com/watch?v=WIHZ7kjJ35o) - by [Jason Lengstorf](https://github.com/jlengstorf) and [Jason Mayes](https://github.com/jasonmayes)
 
